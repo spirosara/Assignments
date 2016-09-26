@@ -27,5 +27,25 @@ Skype: spirosarav
 
 * Teaching assistant in the undergraduate course of Theory of Economic Growth  
 of Professor Plutarchos Sakellaris.
+
+10/2015-1/2016 **ICAP GROUP (Consulting Company)Athens, Greece**
+
+* Intern in Executive Research & Selection
+  * Participating in the recruitment solutions process  
+    * Screening database with CVs  
+    * Participating in interviews  
+  * Building various reports for candidates, clients and job markets (excel)  
+  * Analysis of statistical data for job categories  
+  * Participating in assessment center
+  
+09/2015-10/2015	**Fanatics Pizza Deliveries & Food Services Limited Athens, Greece**
+
+* Call center agent  
+ * Handling incoming calls  
+ * Data entry of clients’ invoices  
+ * Organizing the delivery process
+ 
+09/2013-06/2014 	**Teaching Mathematics and Physics in children (high school level)**
+   
  
 

@@ -5,7 +5,7 @@ E-mail: spirosara7@gmail.com, Date of birth: 17/05/1993
 Linkedin:https://gr.linkedin.com/in/spyridon-aravanis-a20589109  
 Skype: spirosarav
 
-#### Education  
+### Education  
 
 09/2011-02/2016 **Athens University of Economics and Business (AUEB)** 
 
@@ -21,7 +21,7 @@ Skype: spirosarav
 
 * Final Grade: 18, 9/20 (Excellent)
 
-####Work Experience
+###Work Experience
 
 2/2016-6/2016 **Athens University of Economics and Business (AUEB)**
 

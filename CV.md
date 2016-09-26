@@ -48,10 +48,29 @@ of Professor Plutarchos Sakellaris.
 09/2013-06/2014 	**Teaching Mathematics and Physics in children (high school level)**
 
 ###Linguistic skills  
-Greek: Native Speaker  
-English: Excellent written and spoken (Michigan University Certificate of Proficiency in
+* Greek: Native Speaker  
+* English: Excellent written and spoken (Michigan University Certificate of Proficiency in
 English)  
-French: Intermediate written and spoken (DELF B2-Diploma in French Language Studies)
+* French: Intermediate written and spoken (DELF B2-Diploma in French Language Studies)
+
+###Computer Skills
+
+* Excellent knowledge of Microsoft Office (Word, Excel, Power Point, Outlook)  
+* Internet and Web tools  
+* SPSS, Eviews & Stata
+
+###Seminars
+
+* “Jean Monnet” Seminar on the Monetary Policy of the Eurozone
+
+###Interests
+
+* Amateur runner of short distances 
+* Traditional dancing, Music Instruments
+* Volunteerism, Films, Books, Traveling
+
+
+
 
 
    

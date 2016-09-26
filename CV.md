@@ -26,7 +26,7 @@ Skype: spirosarav
 2/2016-6/2016 **Athens University of Economics and Business (AUEB)**
 
 * Teaching assistant in the undergraduate course of Theory of Economic Growth  
-of Professor Plutarchos Sakellaris.
+of Professor Plutarchos Sakellaris
 
 10/2015-1/2016 **ICAP GROUP (Consulting Company)Athens, Greece**
 

@@ -46,6 +46,14 @@ of Professor Plutarchos Sakellaris.
  * Organizing the delivery process
  
 09/2013-06/2014 	**Teaching Mathematics and Physics in children (high school level)**
+
+###Linguistic skills  
+Greek: Native Speaker  
+English: Excellent written and spoken (Michigan University Certificate of Proficiency in
+English)  
+French: Intermediate written and spoken (DELF B2-Diploma in French Language Studies)
+
+
    
  
 

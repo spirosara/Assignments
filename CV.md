@@ -25,7 +25,7 @@ Skype: spirosarav
 
 2/2016-6/2016 **Athens University of Economics and Business (AUEB)**
 
-Teaching assistant in the undergraduate course of Theory of Economic Growth  
+* Teaching assistant in the undergraduate course of Theory of Economic Growth  
 of Professor Plutarchos Sakellaris.
  
 

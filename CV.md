@@ -1,3 +1,5 @@
+<img src="" width="150" height="180" />
+
 ### ARAVANIS SPYRIDON 
 Talent Square, Hart van Brabantlaan 13, 5038 LA Tilburg, Netherlands  
 Phone: +31 0614528625  

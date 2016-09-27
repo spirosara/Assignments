@@ -1,4 +1,4 @@
-<img src="https://github.com/spirosara/Assignments/blob/master/4793.jpg" width="150" height="180" />
+<img src="https://github.com/spirosara/Assignments/blob/master/My%20CV%20picture.jpg" width="150" height="180" />
 
 ### ARAVANIS SPYRIDON 
 Talent Square, Hart van Brabantlaan 13, 5038 LA Tilburg, Netherlands  

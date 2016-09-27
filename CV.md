@@ -34,8 +34,8 @@ of Professor Plutarchos Sakellaris
 
 * Intern in Executive Research & Selection
   * Participating in the recruitment solutions process  
-    * Screening database with CVs  
-    * Participating in interviews  
+    * _Screening database with CVs_  
+    * _Participating in interviews_  
   * Building various reports for candidates, clients and job markets (excel)  
   * Analysis of statistical data for job categories  
   * Participating in assessment center
@@ -53,6 +53,7 @@ of Professor Plutarchos Sakellaris
 * Greek: Native Speaker  
 * English: Excellent written and spoken  
  * Michigan University Certificate of Proficiency in English  
+ * IELTS (Grade:7,5/9)
 * French: Intermediate written and spoken (DELF B2)
 
 ###Computer Skills

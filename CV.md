@@ -2,9 +2,9 @@
 
 ### ARAVANIS SPYRIDON 
 Talent Square, Hart van Brabantlaan 13, 5038 LA Tilburg, Netherlands  
-Phone: +31 0614528625  
-E-mail: spirosara7@gmail.com, Date of birth: 17/05/1993  
-Linkedin:https://gr.linkedin.com/in/spyridon-aravanis-a20589109  
+Phone: +31 0614528625, Date of birth: 17/05/1993   
+E-mail: spirosara7@gmail.com  
+Linkedin: https://gr.linkedin.com/in/spyridon-aravanis-a20589109  
 Skype: spirosarav
 
 ### Education  
@@ -51,15 +51,15 @@ of Professor Plutarchos Sakellaris
 
 ###Linguistic skills  
 * Greek: Native Speaker  
-* English: Excellent written and spoken (Michigan University Certificate of Proficiency in
-English)  
-* French: Intermediate written and spoken (DELF B2-Diploma in French Language Studies)
+* English: Excellent written and spoken  
+ * Michigan University Certificate of Proficiency in English  
+* French: Intermediate written and spoken (DELF B2)
 
 ###Computer Skills
 
 * Excellent knowledge of Microsoft Office (Word, Excel, Power Point, Outlook)  
 * Internet and Web tools  
-* SPSS, Eviews & Stata
+* Stata,SPSS & Eviews 
 
 ###Seminars
 

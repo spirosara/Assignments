@@ -33,4 +33,11 @@ Whilst occupational segregation is inextricably linked with employers’ persona
 The main reason for the above situation is that in society there have been developed norms, which lead women to perceive themselves to be unable to succeed in mathematics and science studies, and as a result they end up to lower-paying jobs. Furthermore, fewer females hold a position at higher-paying jobs, which are in general linked with male-dominated professions. Therefore, there are fewer teachers and mentors, who advise young girls to take courses as math, physics and chemistry, decreasing the possibility for the latter to find a job with high wages.  
 
 Behavioral economists support that GWG is due not only to discrimination and differences in preferences that are created by stereotypes, but also to psychological, non-cognitive factors like differences in competitiveness and confidence. Namely, gender differences in competitiveness and confidence are considered potential causes for differences in educational choices and consequently career path. More specifically, competitiveness is a fundamental attribute for specific study fields, as math and sciences which by nature are viewed more competitive and more prestigious than other fields, like health and social sciences. A research, which is conducted by Niederle and Vesterlund, shows that girls with the same academic skills and abilities as boys behave less competitively and have less confidence in themselves. Therefore, the former are more likely to choose no-prestigious educational profiles which are viewed as more likely to be completed. As a consequence, females’ tendency to less competitive educational profiles illuminates the fact that fewer females are presented in high-paying jobs preserving the GWG.
+___
+#### *_Footnotes_*  
+[1]  Human Resource Management function is the process of hiring, training and developing employees. 
+
+[2]  Gender wage gap is the difference between the average gross hourly earnings of men and women expressed as a percentage of the average gross hourly earnings of men. 
+
+[3]  [http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm]
 

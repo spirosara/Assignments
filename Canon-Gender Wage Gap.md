@@ -10,6 +10,7 @@ Even though the gender wage gap (GWG) has diminished over the last ten years (se
 
 <img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20across%20OECD%20countries.PNG" width="1000" height="230" />  
 Figure 1. Gender Wage across OECD countries  for the period 2000-2013  
+
 <img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20Gap%20across%20OECD%20countries.2.PNG" width="1000" height="230" />  
 
 Figure 2.  Gender Wage Gap across OECD countries

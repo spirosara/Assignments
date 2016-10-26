@@ -6,14 +6,14 @@ Nowadays, there are numerous causes that bring about the gender wage gap (GWG) ,
 #### *_Causes of gender wage gap and its relation with labor participants’ choices_*  
 Even though the gender wage gap (GWG) has diminished over the last ten years (see figure 1), it is still prevalent and the predictions for its attenuation are not optimistic for the near future. The GWG varies across countries (see figure 2) but also by age, by educational level, by working profile (part-time/full-time jobs), by occupation and by sector (public or private).  
 
-  
+_Figure 1. Gender Wage across OECD countries  for the period 2000-2013_  
 
-<img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20across%20OECD%20countries.PNG" width="1000" height="230" />  
-Figure 1. Gender Wage across OECD countries  for the period 2000-2013  
+<img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20across%20OECD%20countries.PNG" width="700" height="300" />  
 
-<img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20Gap%20across%20OECD%20countries.2.PNG" width="1000" height="230" />  
+_Figure 2.  Gender Wage Gap across OECD countries_
 
-Figure 2.  Gender Wage Gap across OECD countries
+<img src="" width="1000" height="230" />  
+
 
 
 First of all, one of the main reasons for the existence of GWG is that women are more likely to reduce the working hours or temporarily interrupt their careers in order to meet family responsibilities; as taking care of children or other family members.  This has negative results in both their job experience and their potential career earnings. The most obvious evidence that women’s career interruption contributes negatively to their earnings, is when they become mothers and bear a “mommy penalty”. Namely, mothers receive less money, on average, when they return to work after giving birth compared to non-mothers.  

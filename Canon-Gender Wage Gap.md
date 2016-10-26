@@ -4,15 +4,19 @@ As the 21st century uploads, deep economic and global challenges affect the exte
 Nowadays, there are numerous causes that bring about the gender wage gap (GWG) , which is one case of unfair compensation between men and women. Neoclassical Economics can expose these causes at a significant point through concepts as utility maximization, self-interest and fixed preferences. However, recent studies have started to concentrate their analysis on behavioral and psychological aspects that affect considerably the GWG. Nonetheless, it has to be mentioned that Behavioral Economics contribute complementarily to Neoclassical Economics and they do not try to define a new dimension for the GWG and for the whole field of Labor Economics. These wage inequalities across gender have as a result to affect the choices of employees and employers, which constitute the human pool of labor participation.  
 
 #### *_Causes of gender wage gap and its relation with labor participants’ choices_*  
-Even though the gender wage gap (GWG) has diminished over the last ten years (see figure 1), it is still prevalent and the predictions for its attenuation are not optimistic for the near future. The GWG varies across countries (see figure 2) but also by age, by educational level, by working profile (part-time/full-time jobs), by occupation and by sector (public or private).  
-
+Even though the gender wage gap (GWG) has diminished over the last ten years (see figure 1), it is still prevalent and the predictions for its attenuation are not optimistic for the near future. The GWG varies across countries (see figure 2) but also by age, by educational level, by working profile (part-time/full-time jobs), by occupation and by sector (public or private).
+___
 _Figure 1. Gender Wage across OECD countries  for the period 2000-2013_  
 
 <img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20Gap%20across%20OECD%20countries%20for%20the%20period%202000-2013.PNG" width="700" height="300" />  
+_Source:Employment database 2014_
+___
 
 _Figure 2.  Gender Wage Gap across OECD countries_
 
-<img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20across%20OECD%20countries.PNG" width="1000" height="230" />  
+<img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20across%20OECD%20countries.PNG" width="700" height="300" />  
+_Source:Employment database 2014_
+___
 
 
 

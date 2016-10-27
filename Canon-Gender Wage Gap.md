@@ -95,6 +95,42 @@ _Figure 2.  Gender Wage Gap across OECD countries_
 <img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20across%20OECD%20countries.PNG" width="700" height="300" />  
 _Source:Employment database 2014_
 ___
+Figure 3.  
 
-#### *_References_*
+<img src="https://github.com/spirosara/Assignments/blob/master/structure.PNG" width="500" height="250" />
+___
+
+
+#### *_References_*  
+
+Altman, M. (2015). _Handbook of contemporary behavioral economics: foundations and developments_. Routledge.  
+
+Dellavigna, S., Paserman, Daniele M. (2005). Job search and impatience, _Journal of Labor Economics, 23 (3),_ 527-588  
+
+
+Farber, H. S. (1986). The analysis of union behavior. _Handbook of labor economics, 2,_ 1039-1089.  
+
+Fehr, E., Gächter, S. (2000) Fairness and retaliation, _J. Econ. Perspect., 14 (3)_ 159–181  
+
+Gneezy, U., List, J. A. (2006) Putting Behavioral Economics To Work: Testing For Gift Exchange In Labor Markets Using Field Experiments, _Econometrica_, 74.5, 1365-1384
+
+Iverson, Roderick D., Roy, P. (1994). A causal model of behavioral commitment: Evidence from a study of Australian blue-collar employees, _Journal of Management, 20 (1),_ 15-41  
+
+Krueger, A.B.,  Mas, A. (2004). Strikes, scabs, and tread separations: labor strife and the production of defective bridgestone/firestone tires, _J. Polit. Econ., 112 (2),_ 253–289  
+
+Kube, S., Puppe, C., Maréchal, M. A. (2012). The currency of reciprocity — gift-exchange in the workplace, _Am. Econ. Rev., 102 (4),_ 1644–1662  
+
+Paserman, Daniele M. (2008). Job Search and Hyperbolic Discounting: Structural Estimation and Policy Evaluation, _The Economic Journal, 118 (531),_ 1418-1452  
+
+Putterman, L. (1982). Some Behavioral Perspectives on the Dominance of Hierarchical over Democratic Forms of Enterprise,  _Journal of Economic Behavior and Organization 3,_ 139–60.  
+
+Van Ours, J., Boeri, T. The Economics of Imperfect Labor Markets: Second Edition. Princeton University Press. Retrieved from:[https://books.google.nl/books?hl=nl&lr=&id=nnmdrXbnR2MC&oi=fnd&pg=PP2&ots=UsmLGLzVMf&sig=uuCzqgx3430tyevbQnTlckHete8#v=snippet&q=preference&f=false]
+
+
+Youngblood, S. A., DeNisi, A. S., Molleston, J. L., Mobley, W. H. (1984). The impact of work environment, instrumentality beliefs, perceived labor union image, and subjective norms on union voting intentions. _Academy of Management Journal, 27(3),_ 576-590.  
+
+Joint Economic Committee Democratic Staff (2016). Gender Pay Inequality Consequences for Women, Families and the Economy, _12-20_
+
+T. Buser, M. Niederle, H. Oosterbeek (2012). Gender, Competitiveness, and career choices, _2-27_
+ 
 

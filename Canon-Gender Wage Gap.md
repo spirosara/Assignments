@@ -12,7 +12,7 @@ With the advent of the 21st century, economic and global challenges affect the e
 We will start by looking at the main causes of the gender wage gap especially where these causes stem from behavior of all those involved in the firm and also its customers. Secondly we will look at how employee motivation is determined and affected by the behavior and trust exhibited by employers and by how they are rewarded for their efforts. Thirdly we will look at how labor unions bargain for among other things the wages of employees in certain sectors and how specifically they do not act solely out of self-interest such as classical economics suggests. Finally we will see how job search decisions for both the employed as well as the unemployed, who are willing to work, are affected by time preferences, such as impatience, and other behavioral variables that affect the job search decision.
 
 #### *_Gender wage gap & Labor participation choices_*  
-The first factor that we address is the root of existence of wage gaps. Gender wage gap is the difference between the average gross hourly earnings of men and women expressed as a percentage of the average gross hourly earnings of men. Nowadays, there are numerous causes that bring about the gender wage gap (GWG), which is one case of unfair compensation between men and women. Neoclassical Economics can expose these causes at a significant point through concepts as utility maximization, self-interest and fixed preferences. However, recent studies have started to concentrate their analysis on behavioral and psychological aspects that affect considerably the GWG.  
+The first factor that we address is the root of existence of wage gaps. Gender wage gap (GWG) is the difference between the average gross hourly earnings of men and women expressed as a percentage of the average gross hourly earnings of men. Nowadays, there are numerous causes that bring about the gender wage gap , which is one case of unfair compensation between men and women. Neoclassical Economics can expose these causes at a significant point through concepts as utility maximization, self-interest and fixed preferences. However, recent studies have started to concentrate their analysis on behavioral and psychological aspects that affect considerably the GWG.  
 
 Nonetheless, it has to be mentioned that Behavioral Economics contributes complementarily to Neoclassical Economics. It is important to note that they do not try to define a new dimension for the GWG, but are merely trying to look at it from a different perspective. These wage inequalities across gender affect the choices of employees and employers, which constitute the human pool of labor participation.  
 
@@ -54,7 +54,7 @@ The fourth and final function they talk about is the intra-organizational part o
 
 The first key aspect of behavioral economics that is relevant is the theory of rational choice. This implies that during the bargaining both parties will selfishly try to maximize their benefits, possibly at the expense of the other party. So looking at the first function of unions, the labor union will try to maximize the part of the pie that they get, at the expense of the part of the pie the employers will get. However, if they can get a bigger part of the pie by cooperating then both parties will have interest in doing so.  
 
-It’s not always the case that participants will try to maximize their own share of the pie without taking into account the share of the pie that the other party will get  Another important behavioral aspect in play is that of reciprocity. This can both be negative and positive. In the case of positive reciprocity people will choose to give a bigger part of the pie to other participants, decreasing their own, because they believe it’s fair. So in the case of labor unions both parties might take into account what is fair in their opinion. Managers might feel that employees have the right for a higher wage than is optimal for maximizing profits, because they believe it is fair.  
+It’s not always the case that participants will try to maximize their own share of the pie without taking into account the share of the pie that the other party will get.  Another important behavioral aspect in play is that of reciprocity. This can both be negative and positive. In the case of positive reciprocity people will choose to give a bigger part of the pie to other participants, decreasing their own, because they believe it’s fair. So in the case of labor unions both parties might take into account what is fair in their opinion. Managers might feel that employees have the right for a higher wage than is optimal for maximizing profits, because they believe it is fair.  
 
 Reciprocity can also be negative. If someone wants to give payback to someone else because they feel they have been mistreated, they might give up a piece of the pie in order to decrease the piece of the pie for the other party as well. Labor unions have a strong position since they can threaten with a strike if employers fail to meet their demands. In most cases there mere availability of a strike option is enough for employers to alter their behavior. “The mere availability of the strike option appears to raise the teacher salaries by as much as 10 percent.”  (Delaney 1983).  
 
@@ -66,7 +66,7 @@ In this section, we will discuss behavioral concepts around job search decisions
 
 In economics it is often discussed how individuals value money in the future less than they do right now because of impatience and sometimes inflation. This effect is called the discounting of future value of money. In classical economics this discounting is often assumed to happen at an exponential rate, known as exponential discounting. This form of discounting is often used in the analysis of individual choice over time. This concept was widely used in analyzing decision making in labor markets, however, research in behavioral economics provided evidence that criticizes it. In particular, Thaler and Benartzi evaluate time-inconsistent choice behavior by analyzing employee saving behavior in the long term. This has led to developing various non-exponential discounting models, such as hyperbolic discounting models.  
 
-Hyperbolic discounting refers to the tendency for people to increasingly choose a smaller-sooner reward over a larger-later reward as the delay occurs sooner rather than later in time.DellaVigna and Paserman in their paper “Job search and impatience” make use of hyperbolic discounting to study decision-making in labor markets. For example, people who can choose between €1000 now and €2000 in a year would most likely go for the first option. When they can choose between €1000 in four years and €2000 in five years most people would go for the last option. This is striking because in both options the interval is one year, which means that people are discounting the short-term more heavily than the long-term. They look into how impatience comes into play while people search for jobs. Furthermore, they have also provided evidences for the existence of time-inconsistent agents who end up investing less effort in job search than they retrospectively wish to have done. This mean that these people are more likely to accept a job offer sooner and therefore they will work for a lower wage compared to a job offer they could get later.  
+Hyperbolic discounting refers to the tendency for people to increasingly choose a smaller-sooner reward over a larger-later reward as the delay occurs sooner rather than later in time. DellaVigna and Paserman in their paper “Job search and impatience” make use of hyperbolic discounting to study decision-making in labor markets. For example, people who can choose between €1000 now and €2000 in a year would most likely go for the first option. When they can choose between €1000 in four years and €2000 in five years most people would go for the last option. This is striking because in both options the interval is one year, which means that people are discounting the short-term more heavily than the long-term. They look into how impatience comes into play while people search for jobs. Furthermore, they have also provided evidences for the existence of time-inconsistent agents who end up investing less effort in job search than they retrospectively wish to have done. This mean that these people are more likely to accept a job offer sooner and therefore they will work for a lower wage compared to a job offer they could get later.  
 
 Moreover, Paserman (2008) also investigated the possibility of hyperbolic discounting. His results could mean that there is hyperbolic discounting for low and medium wage workers and discussed possible policies to successfully decrease the short-term discounting of the hyperbolic workers.  He advises to implement a policy to make people exert more effort in the short-term and make a better choice of a job they accept and increases their starting wage.  
 
@@ -76,14 +76,9 @@ Following this approach Iverson and Roy found that the variable equity directly 
 
 Equity, Promotional Opportunity, Job security and Met Expectations are the strongest variables. We can conclude that the higher the job satisfaction the lower the job search of these employees. The advantage of this is that still a significant fraction of the variables directly influences job satisfaction.  
 
-All in all, it is important to look at behavioral perspectives in designing and implementing policies to efficiently influence labor market outcomes. However, it is difficult to reach all the people where the policy is aimed at because they have different values or different personalities. It could be that there are other reasons or processes that influence the decisions of labors (employed or unemployed). Nonetheless, considering insights from behavioral economics and including such factors one can certainly help to improve policies aimed at labors’ decisions and in turn the outcome of these policies.  
-
-
-
-
-
-
+All in all, it is important to look at behavioral perspectives in designing and implementing policies to efficiently influence labor market outcomes. However, it is difficult to reach all the people where the policy is aimed at because they have different values or different personalities. It could be that there are other reasons or processes that influence the decisions of labors (employed or unemployed). Nonetheless, considering insights from behavioral economics and including such factors one can certainly help to improve policies aimed at labors’ decisions and in turn the outcome of these policies.
 ___
+####*_Appendix_*
 _Figure 1. Gender Wage across OECD countries  for the period 2000-2013_  
 
 <img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20Gap%20across%20OECD%20countries%20for%20the%20period%202000-2013.PNG" width="700" height="300" />  
@@ -95,9 +90,9 @@ _Figure 2.  Gender Wage Gap across OECD countries_
 <img src="https://github.com/spirosara/Assignments/blob/master/Gender%20Wage%20across%20OECD%20countries.PNG" width="700" height="300" />  
 _Source:Employment database 2014_
 ___
-Figure 3.  
+_Figure 3. The effect of behavioral commitment on the workers' turnover_
 
-<img src="https://github.com/spirosara/Assignments/blob/master/structure.PNG" width="500" height="250" />
+<img src="https://github.com/spirosara/Assignments/blob/master/structure.PNG" width="350" height="250" />
 ___
 
 
@@ -129,8 +124,8 @@ Van Ours, J., Boeri, T. The Economics of Imperfect Labor Markets: Second Edition
 
 Youngblood, S. A., DeNisi, A. S., Molleston, J. L., Mobley, W. H. (1984). The impact of work environment, instrumentality beliefs, perceived labor union image, and subjective norms on union voting intentions. _Academy of Management Journal, 27(3),_ 576-590.  
 
-Joint Economic Committee Democratic Staff (2016). Gender Pay Inequality Consequences for Women, Families and the Economy, _12-20_
+Joint Economic Committee Democratic Staff (2016). Gender Pay Inequality Consequences for Women, Families and the Economy, 12-20
 
-T. Buser, M. Niederle, H. Oosterbeek (2012). Gender, Competitiveness, and career choices, _2-27_
+T. Buser, M. Niederle, H. Oosterbeek (2012). Gender, Competitiveness, and career choices, 2-27
  
 

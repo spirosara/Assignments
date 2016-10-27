@@ -92,7 +92,9 @@ _Source:Employment database 2014_
 ___
 _Figure 3. The effect of behavioral commitment on the workers' turnover_
 
-<img src="https://github.com/spirosara/Assignments/blob/master/structure.PNG" width="350" height="250" />
+<img src="https://github.com/spirosara/Assignments/blob/master/structure.PNG" width="350" height="250" />  
+
+_Source:Iverson, Roderick D., Roy, P. (1994). A causal model of behavioral commitment: Evidence from a study of Australian blue-collar employees, Journal of Management, 20 (1), pp. 15-41_ 
 ___
 
 

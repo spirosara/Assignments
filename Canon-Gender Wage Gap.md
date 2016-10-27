@@ -96,14 +96,5 @@ _Figure 2.  Gender Wage Gap across OECD countries_
 _Source:Employment database 2014_
 ___
 
-
-___
-#### *_Footnotes_*  
-[1]  Human Resource Management function is the process of hiring, training and developing employees. 
-
-[2]  Gender wage gap is the difference between the average gross hourly earnings of men and women expressed as a percentage of the average gross hourly earnings of men. 
-
-[3]  [http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm]
-___
 #### *_References_*
 
